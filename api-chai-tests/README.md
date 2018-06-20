@@ -1,10 +1,8 @@
 # Testing-Samples
 
-## How to run tests
-** npm install mocha chai chai-http **
-** mocha apiTests.js **
+## Requirements
+** Have node 6.0+ installed **
 
 # In the parent folder.
-1. npm install
-2. node nodeserver.js
-3. Navigate to your browser on localhost:5000
+1. npm install mocha chai chai-http
+2. mocha apiTests.js
