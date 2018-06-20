@@ -1,7 +1,7 @@
 # Testing-Samples
 
 ## Requirements
-** Have node 6.0+ installed **
+Have node 6.0+ installed
 
 # In the parent folder.
 1. npm install mocha chai chai-http
